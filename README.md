@@ -1,4 +1,4 @@
-# SQL-Project-on-Hospital-Management
+# SQL-Based Data Analysis for Hospital Management System
 
 This project demonstrates the use of SQL for data exploration and analysis within a Jupyter Notebook environment. It showcases practical applications of SQL queries to gain insights from structured data.
 
